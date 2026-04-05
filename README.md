@@ -44,6 +44,10 @@ Related routes:
 - [`show`](https://github.com/qvra/show) for visible demonstrations
 - [`watch`](https://github.com/qvra/watch) for more curated observation later
 
+## First live update
+
+- [`updates/2026-04-05-class-a-live-state.md`](./updates/2026-04-05-class-a-live-state.md) — first visible heartbeat entry for the 5 Class A anchors
+
 ## Rhythm rule
 
 If `pulse` stops reflecting real movement, the field starts reading as inventory.
